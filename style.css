@@ -1,9 +1,13 @@
 html,
 body {
   height: 100%;
-  background-image: url(Usar_image2.png);
+  background-image: url(https://ipubuzz.com/wp-content/uploads/2021/01/5.jpg);
 }
-
+.container{
+  background-color: #fff;
+  width: 400px;
+  border-radius: 0 0 30px 30px;
+}
 body {
   display: -ms-flexbox;
   display: -webkit-box;
